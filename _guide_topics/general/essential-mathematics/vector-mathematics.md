@@ -253,8 +253,8 @@ Vector subtraction is commonly used to find vectors between points. So if we nee
 There are eight properties of vectors. If a, b, and c are vectors, and s and t are numbers, then:  
 
 $$\mathbf{\vec a} + \mathbf{\vec b} = \mathbf{\vec b} + \mathbf{\vec a}$$  
-$$\mathbf{\vec a} + 0 = a$$  
-$$s * (\mathbf{\vec a} + \mathbf{\vec b}) = s * a + s * \mathbf{\vec b}$$  
+$$\mathbf{\vec a} + 0 = \mathbf{\vec a}$$  
+$$s * (\mathbf{\vec a} + \mathbf{\vec b}) = s * \mathbf{\vec a} + s * \mathbf{\vec b}$$  
 $$s * t * (\mathbf{\vec a}) = s * (t * \mathbf{\vec a})$$  
 $$\mathbf{\vec a} + (\mathbf{\vec b} + \mathbf{\vec c}) = (\mathbf{\vec a} + \mathbf{\vec b}) + \mathbf{\vec c}$$  
 $$\mathbf{\vec a} + (-\mathbf{\vec a}) = 0$$  
