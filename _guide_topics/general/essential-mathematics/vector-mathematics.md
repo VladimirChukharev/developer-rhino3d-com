@@ -143,7 +143,7 @@ In general:
 
 \$$\mathbf{\vec a} = <a_1, a_2, a_3>$$  
 
-The unit vector of $$\mathbf{\vec a} = <a_1/\vert \mathbf{\vec a} \vert , a_2/\vert \mathbf{\vec a} \vert , a_3/\vert \mathbf{\vec a} \vert >$$  
+The unit vector of $$\mathbf{\vec a} = <a_1/\vert \mathbf{\vec a} \vert , a_2/\vert \mathbf{\vec a} \vert , a_3/\vert \mathbf{\vec a} \vert >$$, provided that $$\vert \mathbf{\vec a} \vert$$ is not zero
 
 <figure>
    <img src="{{ site.baseurl }}/images/math-image176.png">
