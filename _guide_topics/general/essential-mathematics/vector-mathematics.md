@@ -219,12 +219,12 @@ Vector subtraction takes two vectors and produces a third vector. We subtract tw
 $$\mathbf{\vec a} = <1, 2, 0> $$  
 $$\mathbf{\vec b} = <4, 1, 4> $$  
 $$\mathbf{\vec a}-\mathbf{\vec b} = <1-4, 2-1, 0-4>$$  
-$$\mathbf{\vec a}-\mathbf{\vec b} = <-3, 1, -4> = \mathbf{\mathbf{\vec b}a}$$
+$$\mathbf{\vec a}-\mathbf{\vec b} = <-3, 1, -4> = \mathbf{\mathbf{\vec BA}}$$
 
 If we subtract $$\mathbf{\vec b}$$ from $$\mathbf{\vec a}$$, we get a different result:  
 
 $$\mathbf{\vec b} - \mathbf{\vec a} = <4-1, 1-2, 4-0>$$  
-$$\mathbf{\vec b} - \mathbf{\vec a} = <3, -1, 4> = \mathbf{\mathbf{\vec a}b}$$  
+$$\mathbf{\vec b} - \mathbf{\vec a} = <3, -1, 4> = \mathbf{\mathbf{\vec AB}}$$  
 
 Note that the vector $$\mathbf{\vec b} - \mathbf{\vec a}$$ has the same length as the vector $$\mathbf{\vec a} - \mathbf{\vec b}$$, but goes in the opposite direction.  
 
@@ -237,7 +237,7 @@ In general, if we have two vectors, $$\mathbf{\vec a}$$ and $$\mathbf{\vec b}$$,
 
 $$\mathbf{\vec a} = <a_1, a_2, a_3>$$  
 $$\mathbf{\vec b} = <b_1, b_2, b_3>$$  
-$$\mathbf{\vec a}-\mathbf{\vec b} = <a_1 - b_1, a_2 - b_2, a_3 - b_3> = \mathbf{\mathbf{\vec b}a}$$  
+$$\mathbf{\vec a}-\mathbf{\vec b} = <a_1 - b_1, a_2 - b_2, a_3 - b_3> = \mathbf{\mathbf{\vec BA}}$$  
 
 Vector subtraction is commonly used to find vectors between points. So if we need to find a vector that goes from the tip point of the position vector $$\mathbf{\vec b}$$ to the tip point of the position vector $$\mathbf{\vec a}$$, then we use vector subtraction $$(\mathbf{\vec a}-\mathbf{\vec b})$$ as shown in Figure (11).  
 
