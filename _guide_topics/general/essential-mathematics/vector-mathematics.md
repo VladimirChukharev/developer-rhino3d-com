@@ -303,7 +303,7 @@ Calculating the square length of vector $$\mathbf{\vec a}$$ :
 
 $$\vert \mathbf{\vec a} \vert = \sqrt{4^2 + 3^2 + 0^2}$$  
 $$\vert \mathbf{\vec a} \vert = 5$$  
-$$\vert \mathbf{\vec a} \vert 2 = 25$$  
+$$\vert \mathbf{\vec a} \vert ^2 = 25$$  
 
 ### Vector dot product, lengths, and angles
 
