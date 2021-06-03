@@ -439,7 +439,7 @@ If a and b are unit vectors, then we can simply say that the length of their cro
 The cross product between two vectors helps us determine if two vectors are parallel. This is because the result is always a zero vector.  
 
 <div class="note" markdown="1">
-Vectors $$\vec a$$ and $$\vec b$$ are parallel if, and only if, $$a \times b = 0$$.
+Vectors $$\vec a$$ and $$\vec b$$ are parallel if, and only if, $$\mathbf{\vec a} \times \mathbf{\vec b} = 0$$.
 </div>
 
 ### Cross product properties
