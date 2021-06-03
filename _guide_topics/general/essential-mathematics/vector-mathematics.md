@@ -109,7 +109,7 @@ $$\mathbf{\vec a} = <4, 3, 0>$$
 $$\vert \mathbf{\vec a} \vert = \sqrt{4^2 + 3^2 + 0^2}$$  
 $$\vert \mathbf{\vec a} \vert = 5$$  
 
-In general, the length of a vector $$\mathbf{\vec a} <a_1,a_2,a_3>$$ is calculated as follows:
+In general, the length of a vector $$\mathbf{\vec a} = <a_1,a_2,a_3>$$ is calculated as follows:
 
 \$$\vert \mathbf{\vec a} \vert = \sqrt{(a_1)^2 + (a_2)^2 + (a_3)^2} $$
 
